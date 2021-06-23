@@ -186,4 +186,9 @@ footer span {
   display: block;
   font-family: "Roboto", serif;
 }
+
+footer span small {
+  color: #ffffff;
+  font-style: italic;
+}
 /*# sourceMappingURL=style.css.map */
